@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Colmena pwa</string>
+    <string name="launch_url">https://colmena.pwa-qa.sabentishosting.com/pwa</string>
+    <string name="hostName">colmena.pwa-qa.sabentishosting.com</string>
+    <string name="assetStatements">
+                [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"{SITE_URL}\"}
+        }
+        ]
+    </string>
+    <string name="providerAuthority">app</string>
+
+
+</resources>
