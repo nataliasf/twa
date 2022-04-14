@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Colmena pwa</string>
     <string name="launch_url">https://colmena.pwa-qa.sabentishosting.com/pwa</string>
+    <string name="scheme">https</string>
     <string name="hostName">colmena.pwa-qa.sabentishosting.com</string>
     <string name="assetStatements">
                 [{
